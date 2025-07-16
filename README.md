@@ -16,6 +16,7 @@ THIS IS MY ATTEMPT AT BUILDING A SPOTIFY CLONE FROM SCRATCH
 6. A modern React/Vite frontend that ties it all together with a slick UI and charts.
 
 ✨ TECH STACK ✨
+
 ✅Backend 
 1. Node.js & Express: HTTP API and static file serving.
 2. MongoDB (Mongoose): Stores users, albums, songs, chat messages, playback events.
